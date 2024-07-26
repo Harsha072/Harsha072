@@ -1,7 +1,7 @@
 ![Banner](https://5.imimg.com/data5/BY/YQ/LF/GLADMIN-1700443/mean-banner-500x500.png)
 
 <h1 align="center">Hi 👋, I'm Harsha</h1>
-<h3 align="center">A passionate frontend developer from India. I finished my Master's from South East Technological University, Waterford, Ireland.</h3>
+<h3 align="center">A passionate Software developer. I finished my Master's from South East Technological University, Waterford, Ireland.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e0/dc/ef/e0dcef9f693d5ada75cd04ce74e92bbf.gif">
 
 - 🔭 I’m currently working and updating my existing projects by enhancing them with **Docker, Docker Compose, AWS deployment**
