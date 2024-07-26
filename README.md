@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+<div style="width:100%;height:0;padding-bottom:92%;position:relative;"><iframe src="https://giphy.com/embed/i1JHRZSXO9LZZDHqii" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DronaHQ-automation-nocode-lowcode-i1JHRZSXO9LZZDHqii">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">A passionate frontend developer from India. I finished my Master's from South East Technological University, Waterford, Ireland.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e0/dc/ef/e0dcef9f693d5ada75cd04ce74e92bbf.gif">
