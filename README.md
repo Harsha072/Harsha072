@@ -99,6 +99,3 @@ Hello! I'm Harsha Puttaswamy, a dedicated Full-Stack Software Engineer with over
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha072&show_icons=true&locale=en&layout=compact" alt="harsha072" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha072&" alt="harsha072" /></p>
