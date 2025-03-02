@@ -14,8 +14,6 @@ Hello! I'm Harsha Puttaswamy, a dedicated Full-Stack Software Engineer with over
 - Updating Projects: ** Enhancing existing projects by integrating **Docker, Docker Compose, and AWS deployment**.
 - Learning New Skills: ** Currently focused on mastering **Docker, Kubernetes, AWS, and Data Structures & Algorithms**.
 
-### 👯 Collaboration Opportunities:
-- **Seeking Collaboration:** Interested in partnering on a **Full-stack eCommerce website - Travel Buddy**.
 
 ### 💬 Ask Me About:
 -   **Java, JavaScript, Angular, Node.js, SQL, and AWS**.
