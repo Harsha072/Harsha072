@@ -1,11 +1,10 @@
-![Banner](https://5.imimg.com/data5/BY/YQ/LF/GLADMIN-1700443/mean-banner-500x500.png)
+
 
 <h1 align="center">Hi 👋, I'm Harsha, a Full-Stack Software Engineer</h1>
 <h3 align="center">
 Hello! I'm Harsha Puttaswamy, a dedicated Full-Stack Software Engineer with over two years of hands-on experience in backend-frontend development. My journey has taken me from Bangalore, India to Waterford, Ireland, where I recently completed my Master’s in Computing with a specialization in Enterprise Software Systems from South East Technological University.
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e0/dc/ef/e0dcef9f693d5ada75cd04ce74e92bbf.gif">
 
 ### 🌐 What I Do:
 - **Developing Scalable Solutions:** Expertise in building and optimizing enterprise-level applications using Java, JavaScript, and AWS. I have a proven track record of delivering clean, maintainable code that enhances core product functionality.
