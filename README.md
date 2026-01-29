@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harsha Puttaswamy  
 **Full-Stack Developer | Software Engineer | Backend Engineer**  
 
-Passionate about building scalable web applications and currently exploring AI technologies. With 2+ years of experience across the stack (Java, JavaScript, Angular, Node.js) and a Master's in Enterprise Software Systems, I specialize in creating robust solutions with clean, maintainable code.
+Passionate about building scalable web applications and currently exploring AI technologies. With 3 years of experience across the stack (Java, JavaScript, Angular, Node.js) and a Master's in Enterprise Software Systems, I specialize in creating robust solutions with clean, maintainable code.
 
 ### 🛠️ Tech Stack  
 **Frontend:** Angular, HTML/CSS, Bootstrap  
